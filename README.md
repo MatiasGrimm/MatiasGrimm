@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 1
+- 2
+- 3
+- 4
+ 
 <!--
 **MatiasGrimm/MatiasGrimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
