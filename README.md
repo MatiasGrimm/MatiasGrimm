@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Matias👋
 
-- 1
-- 2
-- 3
-- 4
+- 
+- 📫 Reach me on matiasgrimm@gmail.com or through [LinkedIn](https://www.linkedin.com/in/matias-grimm/)
  
 <!--
 **MatiasGrimm/MatiasGrimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
