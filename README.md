@@ -1,6 +1,5 @@
 ### Hi there, I'm Matias👋
 
-- 
 - 📫 Reach me on matiasgrimm@gmail.com or through [LinkedIn](https://www.linkedin.com/in/matias-grimm/)
  
 <!--
