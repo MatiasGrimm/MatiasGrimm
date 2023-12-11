@@ -12,8 +12,6 @@
 - A system for garden/plant management 
 - Working on company projects
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiasgrimm&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="matiasgrimm" />
-
 ## 💼 Technologies I'm familiar with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
