@@ -1,18 +1,38 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate fullstack developer from Denmark</h3>
 
-### 🔗 Connect with me on
+<h3> 🔗 Connect with me on </h3>
 <a href="https://linkedin.com/in/matias-grimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-grimm" height="30" width="40" /></a>
 
 <br/>
+<br/>
 💬 Feel free to contact me if you have any questions.
 
-## 🔭 Currently working on
-- Mobile app in ReactNative for a family project
-- A system for garden/plant management 
-- Working on company projects
+<br/>
+<h2> 🔭 Currently working on </h2>
+<ul>
+  <li>Mobile app in ReactNative for a family project</li>
+  <li>A system for garden/plant management </li>
+  <li>Working on company projects</li>
+</ul>
 
-## 💼 Technologies I'm familiar with
+<h2> NPM Packages </h2>
+
+<h3> 
+  
+  [All packages](https://www.npmjs.com/org/freelance_projects?activeTab=packages) 
+</h3>
+
+<h4>
+  <ol>
+ <li> 
+   
+   [Permission-Parser](https://www.npmjs.com/package/@freelance_projects/permission-parser)
+ </li>
+  </ol>
+</h4>
+
+<h2> 💼 Technologies I'm familiar with </h2> 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -27,6 +47,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/NodeRED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-95478e?style=for-the-badge&logo=csharp&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-c70000?style=for-the-badge&logo=npm&logoColor=FFF)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8763C5.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
