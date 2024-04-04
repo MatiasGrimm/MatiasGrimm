@@ -49,6 +49,7 @@
 ![Node-RED](https://img.shields.io/badge/NodeRED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-95478e?style=for-the-badge&logo=csharp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-c70000?style=for-the-badge&logo=npm&logoColor=FFF)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8763C5.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
