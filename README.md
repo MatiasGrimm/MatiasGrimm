@@ -38,7 +38,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/ubuntu-%23323330.svg?style=for-the-badge&color=e95420&logo=ubuntu&logoColor=FFF)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,6 +48,7 @@
 ![C#](https://img.shields.io/badge/c%23-95478e?style=for-the-badge&logo=csharp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-c70000?style=for-the-badge&logo=npm&logoColor=FFF)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GRAFANA](https://img.shields.io/badge/grafana-%23323330.svg?style=for-the-badge&color=130a40&logo=grafana&logoColor=%e95828)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8763C5.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
