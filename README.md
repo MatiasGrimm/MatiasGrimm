@@ -12,7 +12,6 @@
 <h2> 🔭 Currently working on </h2>
 <ul>
   <li>Mobile app in ReactNative for a family project</li>
-  <li>A system for garden/plant management </li>
   <li>Working on company projects</li>
 </ul>
 
