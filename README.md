@@ -15,22 +15,6 @@
   <li>Working on company projects</li>
 </ul>
 
-<h2> NPM Packages </h2>
-
-<h3> 
-  
-  [All packages](https://www.npmjs.com/org/freelance_projects?activeTab=packages) 
-</h3>
-
-<h4>
-  <ol>
- <li> 
-   
-   [Permission-Parser](https://www.npmjs.com/package/@freelance_projects/permission-parser)
- </li>
-  </ol>
-</h4>
-
 <h2> 💼 Technologies I'm familiar with </h2> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -65,3 +49,21 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobexd&logoColor=f760f3)
+
+
+
+<h2> NPM Packages </h2>
+
+<h3> 
+  
+  [All packages](https://www.npmjs.com/org/freelance_projects?activeTab=packages) 
+</h3>
+
+<h4>
+  <ol>
+ <li> 
+   
+   [Permission-Parser](https://www.npmjs.com/package/@freelance_projects/permission-parser)
+ </li>
+  </ol>
+</h4>
