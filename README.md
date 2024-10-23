@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate fullstack developer from Denmark</h3>
+<h4 align="center">Currently working as a frontend developer @ Storebuddy</h4>
 
 <h3> 🔗 Connect with me on </h3>
 <a href="https://linkedin.com/in/matias-grimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias-grimm" height="30" width="40" /></a>
@@ -20,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![UBUNTU](https://img.shields.io/badge/ubuntu-%23323330.svg?style=for-the-badge&color=e95420&logo=ubuntu&logoColor=FFF)
@@ -27,7 +29,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/NodeRED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-95478e?style=for-the-badge&logo=csharp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-c70000?style=for-the-badge&logo=npm&logoColor=FFF)
